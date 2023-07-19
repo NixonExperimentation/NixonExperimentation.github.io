@@ -1,0 +1,18 @@
+<section>
+<article>
+About me and summary.
+</article>
+<div id="projects">		
+</div>
+<article>
+Skills i have 
+</article>
+<div id="jobs">
+</div>
+<article>
+What i am Currently learning and reading.
+</article>
+</section>
+<footer>
+<p>This Project is made using React</p>
+</footer>
