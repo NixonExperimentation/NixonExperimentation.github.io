@@ -1,0 +1,20 @@
+1) JavaScript ES6
+2) React folder structure 
+3) Function Based Rendering
+4) React Props
+5) React Forms:
+    1) react-hook-form (Module)
+    2) React normal form submission
+6) React Router (v6)
+7) React CSS styling
+8) React All Hooks
+9) API integration in react with axios 
+10) Redux (state management)
+11) React Package manager
+12) React External Module for UI:
+    1) react-bootstrap and bootstrap (v5)
+    2) antd design
+    3) multiselect-react-dropdown
+    4) chart.js
+    5) Material UI (optional)
+13) Font Awesome CDN (v5)

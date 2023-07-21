@@ -1,18 +1,35 @@
-<section>
-<article>
-About me and summary.
-</article>
-<div id="projects">		
-</div>
-<article>
-Skills i have 
-</article>
-<div id="jobs">
-</div>
-<article>
-What i am Currently learning and reading.
-</article>
-</section>
-<footer>
-<p>This Project is made using React</p>
-</footer>
+# for the web-resume 
+    # needs
+
+        # form for the 
+
+    # design
+        # the navigation 
+            # menu should load new container based on click events
+            # can be accordion style
+        #  the header should have great contrast 
+        #  the about section
+            # should include the avatar
+        # the project fab
+            # is a Fab 
+            # should include clicck events
+            # dropdown 
+    # ui 
+        #container for the whole page with some LR margins
+            # grid the components on a vertical layout
+                #grid the components dom elements 
+
+
+
+
+    # For pixi.js game 
+        # Root node 
+            #the drawing container
+                #use polygon to make those shapes 
+                #use pointerclickevents in pixi for filling in colors
+            #the color ui container 
+                # use polygons for the color swatch set a state where the swatch was clicked the color will be stored
+                # transfer data to the main container swatch
+            # the container for recently used swatches
+                # rectcangles with the color fill
+            #do some layout stuff for the buttons

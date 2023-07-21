@@ -1,9 +1,20 @@
 import React from "react";
+import {  Fab,  Tab, Tabs } from "@mui/material";
 
-export function Jobs({jobProp}) {
-    const jobList = [{id: 1,name: "Rapido"},{id: 1,name: "nearbuy.com"}];
- 
+export function Jobs() {
+    const jobList = [{id: 1,name: "Rapido"},{id: 2,name: "nearbuy.com"}];
+	const jobs= jobList.map((job) => {
+		return (
+			<Tab disableRipple label={
+			<Fab variant="extended">
+				{job.name}
+			</Fab>}
+			/>
+		)
+	});
 	return (
-		<li>{jobList.name}</li>
+		<Tabs variant="scrollable">
+			{jobs}
+		</Tabs>
 	);
 }
